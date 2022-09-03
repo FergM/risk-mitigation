@@ -1,5 +1,5 @@
 # Risk Mitigation
-Roughwork ideas and models
+High level notes and models for investing and wealth preservation.
 
 *The cure mustn't be worse than the disease*
 
