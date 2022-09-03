@@ -14,9 +14,9 @@ Industy Models:
     * Show weaknesses such as leverage fragility
     * See LML ErgodicityEconomics doc 2017
 
-Key Metric
+Key Metrics
 * **Log return** on **Total Wealth**
-
+* CAGR/Median/Kelly Percentiles
 
 Core Concepts
 * Compound Average Grouth Rate (**Geometric Mean**)
