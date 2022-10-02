@@ -11,11 +11,16 @@ High level notes and models for investing and wealth preservation.
     * You can generalise to % of total wealth
     * Beware, nominal values matter because of affordability thresholds/step-functions baked into reality
 
-### Visuals
-From *Safe Haven Investing*:
+### Models & Visuals
+All from *Safe Haven Investing* so far.
+
+Visuals
 * Bootstrap Paths Model
 * X and Os Model (Sum of parts)
 * Cost-Effect Safe Haven Frontier
+
+Models
+* P34 Petersburg Wagger - Shows how a bet can be good or bad depending on how much wealth you have.
 
 ### Industy Models:
 * Portfolio Theroy Sharpe Ratio Efficient Frontier
